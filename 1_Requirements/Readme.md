@@ -92,4 +92,4 @@ A Grocery store is a retail store that primarily sells a Grocery items. Now a da
 | ------------- |:-------------:| -----:|
 | LLR 1     | Basic operation | To generate a bills |
 |  LLR 2     | Crud operation      |   To create, update and delete the records |
-| LLR  3|       |    Multifile | To reduce a code structure.|
+| LLR  3|     Multifile   |  To reduce a code structure.  | 
