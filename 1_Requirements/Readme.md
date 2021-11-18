@@ -81,5 +81,15 @@ A Grocery store is a retail store that primarily sells a Grocery items. Now a da
 # Detail requirements
 
 ## High Level Requirements:
+| ID       | Description       | Status |
+| ------------- |:-------------:| -----:|
+| HLR 1     | Login & Sign up |   Users need to access   |
+| HLR 2      | Search filter      |  filter by prices and products |
+| HLR 3 | ANSI Colors     |    I trying to give color for the software |
 
 ## Low Level Requirements:
+| ID       | Description       | Status |
+| ------------- |:-------------:| -----:|
+| LLR 1     | Basic operation | To generate a bills |
+|  LLR 2     | Crud operation      |   To create, update and delete the records |
+| LLR  3|       |    Multifile | To reduce a code structure.
