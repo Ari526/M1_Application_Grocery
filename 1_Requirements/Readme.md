@@ -18,6 +18,13 @@ A Grocery store is a retail store that primarily sells a Grocery items. Now a da
 - So In this project will overcome the drawbacks of the previous project and adding some extra features.
 
 ## Cost and Features and Timeline
+- The vendors will obviously be able to gain benefits such as savings in the operating cost, reduction in the paperwork, better utilization of human resources and more presentable image increasing goodwill.
+
+- ## Initial Cost
+    - The initial cost of setting  up the system will include the cost of the hardware software like systems, os, and the software
+- ## Running Cost
+    - Besides the initial cost the long term cost will include the running cost for the system including some battery backups for the systems.
+    - And it has cost for update/renewal of this software.
 
 ## Defining Our System
 - The main objective of the Project is to manage the details of customers,products,product type,product company.
