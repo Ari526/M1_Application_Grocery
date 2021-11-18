@@ -6,7 +6,7 @@ The main Aim of Project is used to help the Grocery vendors to Maintain and Mana
 
 ## Introduction
 
-A Grocery store is a retail store that primarily sells a Grocery items. Now a days pollution around the world has increasing as well as day by day foods items are demanded. This project is to help small scale groceries shop owner to grow digitally
+A Grocery store is a retail store that primarily sells a Grocery items. Now a days population around the world has increasing as well as day by day foods items are demanded. This project is to help small scale groceries shop owner to grow digitally
 
 ## Research
  
