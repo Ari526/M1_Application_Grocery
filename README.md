@@ -13,8 +13,8 @@ Grocery Management System
 ## Code Grade 
 ![Code Quality - Static Code - Cppcheck](https://github.com/Ari526/M1_Application_Grocery/actions/workflows/cppcheck.yml/badge.svg)
 ## Unity 
-[![Code Grade]https://api.codiga.io/project/29894/status/svg ] ![C/C++ CI UnitTesting](https://github.com/Ari526/M1_Application_Grocery/actions/workflows/bulid.yml/badge.svg)](https://github.com/Ari526/M1_Application_Grocery/actions/workflows/bulid.yml)
-
+![Code Grade]https://api.codiga.io/project/29894/status/svg (https://github.com/Ari526/M1_Application_Grocery/actions/workflows/bulid.yml)
+ ![C/C++ CI UnitTesting](https://github.com/Ari526/M1_Application_Grocery/actions/workflows/bulid.yml/badge.svg)]
 ## [Git Inspector](using github.io option)
 [![Contribution Check - Git Inspector](https://github.com/Ari526/M1_Application_Grocery/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Ari526/M1_Application_Grocery/actions/workflows/gitinspector.yml)
 
