@@ -39,4 +39,7 @@ Grocery Management System
 
 
 # Learning Resources
+  - Git workflow
+  - Git inspector
+  - Unity
 
