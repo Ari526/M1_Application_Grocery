@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: cpp check
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  cppcheck:
 
     runs-on: ubuntu-latest
 
