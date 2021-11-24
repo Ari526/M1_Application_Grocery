@@ -6,7 +6,7 @@
 
 test_values brandname(int id)
 {
-    char name1[20];
+    char name1[6];
     FILE *fp=NULL;
     fp = fopen("grocery.txt","rb");
     if(fp==NULL)
