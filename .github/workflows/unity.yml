@@ -1,0 +1,17 @@
+name: C/C++ CI UnitTesting
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: make
+      run: make -C 3_Implementation/ test
