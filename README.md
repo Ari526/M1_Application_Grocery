@@ -8,7 +8,7 @@ Grocery Management System
 ## [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d2c8b8110f145368c0d4bccba673833)](https://www.codacy.com/gh/Ari526/M1_Application_Grocery/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ari526/M1_Application_Grocery&amp;utm_campaign=Badge_Grade)
 
 ## Code Quality 
-![Code Quality]https://api.codiga.io/project/29894/score/svg
+![Code Quality](https://api.codiga.io/project/29894/score/svg)
 
 ## Code Grade 
 ![Code Quality - Static Code - Cppcheck](https://github.com/Ari526/M1_Application_Grocery/actions/workflows/cppcheck.yml/badge.svg)
