@@ -41,7 +41,7 @@ function to search products
 */
 
 
-test_values addproduct(int id,char name[],char author[]);
+test_values addproduct(int id,char name[],char description[]);
 /*
 function to add products
 */
